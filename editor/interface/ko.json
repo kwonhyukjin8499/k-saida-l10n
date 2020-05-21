@@ -453,6 +453,8 @@
     "gui.extension.gdxfor.connectingMessage": "Connecting",
     "gui.extension.deeplearning.name": "딥 러닝",
     "gui.extension.deeplearning.description": "인공지능 학습을 위한 자신만의 모델을 만들어보세요.",
+    "gui.extension.bigdata.name": "빅데이터",
+    "gui.extension.bigdata.description": "빅데이터 정보를 원하는대로 가공해보세요.",
     "gui.libraryTags.all": "모두",
     "gui.libraryTags.animals": "동물",
     "gui.libraryTags.dance": "댄스",
