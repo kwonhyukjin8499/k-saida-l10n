@@ -1,4 +1,6 @@
 {
+    "bigData.categoryName": "빅 데이터",
+    "bigData.loadCSV": "CSV 파일 [FILE] 불러오기",
     "boost.color.any": "any color",
     "boost.color.black": "black",
     "boost.color.blue": "blue",

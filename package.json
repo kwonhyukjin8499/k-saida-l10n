@@ -30,16 +30,16 @@
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www"
     },
+    "homepage": "https://github.com/K-SAIDA/k-saida-l10n#readme",
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/LLK/scratch-l10n.git"
+      "type": "git",
+      "url": "git+ssh://git@github.com:K-SAIDA/k-saida-l10n.git"
     },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/LLK/scratch-l10n/issues"
+        "url": "https://github.com/K-SAIDA/k-saida-l10n/issues"
     },
-    "homepage": "https://github.com/LLK/scratch-l10n#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
